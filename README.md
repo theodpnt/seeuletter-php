@@ -221,3 +221,5 @@ We've provided various examples for you to try out [here](https://github.com/see
 Copyright &copy; 2017 Seeuletter.com
 
 Released under the MIT License, which can be found in the repository in `LICENSE.txt`.
+
+<!-- Synchronisation Dust temporaire : 2026-11-01T22:37:05+01:00 -->
